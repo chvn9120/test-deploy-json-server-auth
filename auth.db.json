@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Ophelia Ortiz",
+      "username": "ophelia",
+      "email": "ophelia@gmail.com",
+      "password": "$2a$10$eSScg/yd.ulDbLlrQkqwOuZ0eemJYhbeeEBYbtkFkvRoeO0GrL71G",
+      "address": "1203 Gipbe Ridge",
+      "status": "Draft",
+      "createdAt": "2024-09-07T11:14:25.449Z",
+      "image": "https://placehold.co/40x40"
+    },
+    {
+      "email": "aertie@gmail.com",
+      "password": "$2a$10$5CDRLjeDEyfXLgUD.MLFOOrHhfA2e.Ta.7eumE56Tqn4uSW8/BkRS",
+      "username": "aertie",
+      "fullname": "Bertie Mathis",
+      "address": "429 Umiuj Park",
+      "status": "Draft",
+      "createdAt": "2024-08-29T00:00:00",
+      "image": "https://placehold.co/40x40",
+      "id": 2
+    },
+    {
+      "email": "duane@gmail.com",
+      "password": "$2a$10$317OmgOW3IXB6d9ntcLu6uhr7GUCfNOUf8a2LzVsZKU2fbUCmG2L2",
+      "username": "duane",
+      "fullname": "Duane Williamson",
+      "address": "1692 Foeva Turnpike",
+      "status": "Active",
+      "createdAt": "2024-08-29T00:00:00",
+      "image": "https://placehold.co/40x40",
+      "id": 3
+    },
+    {
+      "email": "eliza@gmail.com",
+      "password": "$2a$10$kuIyPrm4FfZALkLiTaYIyeVuU0KqLCKA5Tv.12nUypM5NsaeBGlOS",
+      "username": "eliza",
+      "fullname": "Eliza Williams",
+      "address": "188 Lopul Park",
+      "status": "Archived",
+      "createdAt": "2024-08-29T00:00:00",
+      "image": "https://placehold.co/40x40",
+      "id": 4
+    },
+    {
+      "email": "hallie@gmail.com",
+      "password": "$2a$10$n9gaPRBsMI3ulu8iAntvi.W1SV3RCrRSLPzccQJqNLWQ.2GE5MkLO",
+      "username": "hallie",
+      "fullname": "Hallie Brady",
+      "address": "1947 Savagi Parkway",
+      "status": "Archived",
+      "createdAt": "2024-08-29T00:00:00",
+      "image": "https://placehold.co/40x40",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "fullname": "test123 (update)",
+      "username": "test123",
+      "email": "test123@gmail.com",
+      "password": "$2a$10$ODV/UzftO4ri0Ncrttc2FOhe9GduPYA5Xpm2LRc78XLRhq9Mbyb/O",
+      "address": "8 District",
+      "status": "Archived",
+      "createdAt": "2024-09-04T11:30:26.937Z",
+      "image": "https://placehold.co/40x40"
+    }
+  ]
+}
